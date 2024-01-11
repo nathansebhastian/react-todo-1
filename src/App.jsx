@@ -38,7 +38,7 @@ function App() {
           />
           <button
             type='submit'
-            className='px-5 py-2 text-md text-white bg-blue-500 border-2 border-transparent rounded-lg hover:bg-blue-700'
+            className='px-5 py-2  text-white bg-blue-500 border-2 border-transparent rounded-lg hover:bg-blue-700'
           >
             Submit
           </button>
